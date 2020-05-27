@@ -1,0 +1,28 @@
+1.7.1:
+Character Validation speed boost and several small bugfixes
+
+1.7.0
+Fixed several input issues, implemented (Custom) Character Validator and Drag & Select Mode properties.
+
+1.6.3
+Improved emoji support (new sample scene "Chat" included) and multiple bugfixes
+
+1.6.1
+New autoresize feature and several small bugfixes
+
+1.6.0
+TextMeshPro support added:
+The format/structure of an AdvancedInputField instance has changed to support both Unity Text Renderers and TextMeshPro Text Renderers:
+- Uses a custom ScrollView now instead of shifting the text characters 
+  (Multiple properties has been added to change the scroll behaviour & sensitivity)
+- There is a dedicated Text Renderer now for the placeholder
+
+IMPORTANT: All AdvancedInputFields made prior to version 1.6.0 are deprecated and can't be used anymore.
+You can use the ConversionTool (Advanced Input Field => ConversionTool) to convert from the deprecated format to the new format.
+Set 'from' to 'DEPRECATED_ADVANCEDINPUTFIELD' and 'to' to either 'ADVANCEDINPUTFIELD_UNITY_TEXT' or 'ADVANCEDINPUTFIELD_TEXTMESHPRO_TEXT';
+
+You can choose either a AdvancedInputField with Unity Text Renderers or with TextMeshPro Text Renderers now in the ConversionTool or when creating a new AdvancedInputField instance from the dropdown.
+
+Remarks:
+- ConversionTool can't transfer "NextInputField" property if the referenced input field needs to be converted too.
+  You'll need to relink them manually in this case.

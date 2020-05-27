@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 3eef9eaffc3084c7aa534630f9471ffb
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: body
+    100002: body1
+    100004: botto
+    100006: bottom
+    100008: keys
+    100010: lightning
+    100012: lightnong_
+    100014: //RootNode
+    100016: Magic_Keyb
+    100018: Magick_Tra
+    100020: pins
+    100022: pins1
+    100024: rubbe
+    100026: rubber_pad
+    100028: switc
+    100030: switch
+    400000: body
+    400002: body1
+    400004: botto
+    400006: bottom
+    400008: keys
+    400010: lightning
+    400012: lightnong_
+    400014: //RootNode
+    400016: Magic_Keyb
+    400018: Magick_Tra
+    400020: pins
+    400022: pins1
+    400024: rubbe
+    400026: rubber_pad
+    400028: switc
+    400030: switch
+    2100000: keys
+    2100002: lighning connec
+    2100004: lightning
+    2100006: switch
+    2100008: pads
+    2100010: body
+    2100012: bottom
+    2300000: body
+    2300002: body1
+    2300004: botto
+    2300006: bottom
+    2300008: keys
+    2300010: lightning
+    2300012: lightnong_
+    2300014: Magic_Keyb
+    2300016: Magick_Tra
+    2300018: pins
+    2300020: pins1
+    2300022: rubbe
+    2300024: rubber_pad
+    2300026: switc
+    2300028: switch
+    3300000: body
+    3300002: body1
+    3300004: botto
+    3300006: bottom
+    3300008: keys
+    3300010: lightning
+    3300012: lightnong_
+    3300014: Magic_Keyb
+    3300016: Magick_Tra
+    3300018: pins
+    3300020: pins1
+    3300022: rubbe
+    3300024: rubber_pad
+    3300026: switc
+    3300028: switch
+    4300000: Magic_Keyb
+    4300002: bottom
+    4300004: pins
+    4300006: body
+    4300008: keys
+    4300010: rubber_pad
+    4300012: lightnong_
+    4300014: switch
+    4300016: Magick_Tra
+    4300018: botto
+    4300020: pins1
+    4300022: rubbe
+    4300024: switc
+    4300026: body1
+    4300028: lightning
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{31BE41C2-FC2F-905E-F659-779AE82CB628}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NiceJson.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PitchYawRoll.cs" Line="28" Column="16" />
+      <File FileName="Assets/Scripts/Vuforia/VuforiaCustomBehaviour.cs" Line="117" Column="13" />
+      <File FileName="Assets/Scripts/Logic/GlobalSettings.cs" Line="22" Column="30" />
+      <File FileName="Assets/Scripts/Logic/MainController.cs" Line="171" Column="1" />
+      <File FileName="Assets/Scripts/Phrases.cs" Line="41" Column="1" />
+      <File FileName="Assets/Scripts/Logic/Logging.cs" Line="501" Column="1" />
+      <File FileName="Assets/Scripts/Camera/CameraSetup.cs" Line="56" Column="70" />
+      <File FileName="Assets/Scripts/NiceJson.cs" Line="37" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

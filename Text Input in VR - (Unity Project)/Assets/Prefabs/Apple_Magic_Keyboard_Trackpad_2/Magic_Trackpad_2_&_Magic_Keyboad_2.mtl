@@ -1,0 +1,51 @@
+#  ==========================================================================
+#  Wavefront Material file
+#  Exported by Red-i Productions' "Riptide Pro"
+#  (a commercial plugin for Cinema 4D PC & Mac, R9.6 or later)
+#  
+#  Red-i Productions
+#  http://skinprops.com
+#  
+#  ==========================================================================
+
+newmtl bottom
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd bottom.tif
+
+newmtl lighning_connector
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+newmtl body
+Kd 0.470000 0.470000 0.470000
+illum 1
+
+newmtl indicator
+Kd 0.168000 0.800000 0.189067
+illum 1
+
+newmtl antenna_door
+Kd 1.000000 1.000000 1.000000
+illum 1
+
+newmtl keys
+Kd 0.800000 0.800000 0.800000
+illum 1
+map_Kd keyboard.tif
+
+newmtl pads
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+newmtl lightning
+Kd 0.160000 0.160000 0.160000
+illum 1
+
+newmtl switch
+Kd 0.800000 0.800000 0.800000
+illum 1
+
+newmtl top
+Kd 0.800000 0.800000 0.800000
+illum 1

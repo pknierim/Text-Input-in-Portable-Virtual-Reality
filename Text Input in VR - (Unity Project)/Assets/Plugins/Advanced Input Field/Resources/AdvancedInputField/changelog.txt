@@ -1,0 +1,5 @@
+1.7.1:
+- Improvement: Text Validation speed boost
+- Bugfix: Sometimes incorrect text bounds on password fields
+- Bugfix Mobile: Incorrect initial mobile cursor position when using KeyboardScroller component
+- Bugfix: Incorrect text bounds when RectTransform size got changed
