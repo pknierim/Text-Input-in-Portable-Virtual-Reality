@@ -44,7 +44,7 @@ series = {CHI EA ’20}
 
 
 ```
-@misc{knierim:2019:domesticARData,
+@misc{knierim:2020:data,
   author = {Knierim, Pascal and Kosch, Thomas and Groschopp, Johannes and Schmidt, Albrecht},
   title = {Opportunities and Challenges of Text Input in Portable Virtual Reality},
   year = {2020},
